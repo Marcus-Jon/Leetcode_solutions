@@ -6,4 +6,5 @@ Leetcode Algorithms
 Problem| Language | Difficulty
 -------|----------|------------
 two_sum|Python|Easy
-add_two_numbers|Python|medium
+add_two_numbers|Python|Medium
+longest_substring_without_repetition|Python|Medium
