@@ -16,3 +16,4 @@ longest_palindromic_substring|[Python](https://github.com/Marcus-Jon/Leetcode_so
 zigzag_conversion|[Python](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/6_zigzag_conversion.py)|Medium|1396ms|18.5MB
 reverse_integer.py|[Python](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/7_reverse_int.py)|Easy|28ms|11.9MB
 atoi_function|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/8_atoi_function.cpp)|Medium|4ms|8.5MB
+palindrome_number|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/9_palindrome_number.cpp)|Easy|24ms|8.1MB
