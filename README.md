@@ -19,3 +19,4 @@ atoi_function|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master
 palindrome_number|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/9_palindrome_number.cpp)|Easy|24ms|8.1MB
 container_with_most_water|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/11_container_with_most_water.cpp)|Medium|20ms|9.8MB
 integer_to_roman|[C++](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/12_int_to_roman.cpp)|Medium|16ms|8.4MB
+roman_to_integer|[Python](https://github.com/Marcus-Jon/Leetcode_solutions/blob/master/solutions/13_roman_to_integer.py)|Easy|88ms|11.8MB
